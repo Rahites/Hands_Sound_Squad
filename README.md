@@ -1,12 +1,13 @@
-## Hand_Sound_Squad
+# Hand_Sound_Squad
 
 **2023 6th D&A BigData Conference**  
 Team : 수어 사운드 스쿼드
 
+## 주제
 **한국 농인을 위한 수어 통역 시스템 구축**  
 수어 통역 시스템을 구축하여 한국 청각/언어 장애인의 의사소통을 지원하자!
 
-### Task Flow
+## Task Flow
 1. Video Input
 2. Pose Estimation
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
