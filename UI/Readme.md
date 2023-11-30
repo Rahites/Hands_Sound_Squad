@@ -1,4 +1,4 @@
-# Hand_Sound_Squad_UI
+## Hand_Sound_Squad_UI
 
 0. Make folder
 - tts/ : tts file save path  
@@ -14,6 +14,6 @@
 2. Execution
 - `python main.py`
 
-3. To Make EXE File
+3. To Make '.exe' File
 - `pip install pyinstaller`
 - `pyinstaller main.py --copy-metadata tqdm --copy-metadata regex --copy-metadata requests --copy-metadata packaging --copy-metadata filelock --copy-metadata numpy --copy-metadata tokenizers --copy-metadata huggingface-hub --copy-metadata safetensors --copy-metadata pyyaml --copy-metadata torch`
