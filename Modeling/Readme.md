@@ -1,10 +1,14 @@
 ## Hand_Sound_Squad_Modeling
-
+<img src="Architecture.png">
 ### 사용 데이터
 AI Hub 수어 영상 데이터  
 https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=103  
-- Train 1~16, Test 17~18 Data
+- Train 1\~16, Test 17\~18 Data
 - Front Data만 사용
+
+### python 파일 정리
+1. translate_coordinate.py : 데이터 전처리(OpenPose가 예측한 Keypoint 입력)
+2. LSTM_Attention_final_model.ipynb : 모델링 성능 고도화
 
 ### npy 파일 정리
 1. AI_hub_숫자_word_list.npy : 해당 숫자 폴더 morpheme 중 범용성이 높아 실제로 사용할 단어만 정리해둔 npy

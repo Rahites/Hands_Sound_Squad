@@ -14,9 +14,9 @@ Team : 수어 사운드 스쿼드
 - KeyPoint Preprocessing  
 - [Normalize Method Reference](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11195549&nodeId=NODE11195549&medaTypeCode=185005&locale=ko&foreignIpYn=N&articleTitle=Openpose%EC%99%80+GRU+%EA%B2%B0%ED%95%A9%EC%9D%84+%ED%99%9C%EC%9A%A9%ED%95%9C+%EC%88%98%EC%96%B4+%EB%8B%A8%EC%96%B4+%EC%9D%B8%EC%8B%9D&articleTitleEn=Sign-Language+Word+Recognition+Using+Combination+of+Openpose+and+GRU&language=ko_KR&hasTopBanner=true)
 
-4. Modeling
+4. Modeling  
 - Bi-LSTM + Attention
-
+<img src="Modeling/Architecture.png">
 5. Predict Answer Words(UI)
 - Model Inference
 6. Predict Korean postpositions(UI)
