@@ -17,6 +17,7 @@ Team : 수어 사운드 스쿼드
 4. Modeling  
 - Bi-LSTM + Attention
 <img src="Modeling/Architecture.png">
+
 5. Predict Answer Words(UI)
 - Model Inference
 6. Predict Korean postpositions(UI)
